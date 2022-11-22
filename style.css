@@ -255,7 +255,7 @@ img {
     }
 
     .header {
-        display: inline-flexbox;
+        display: inline-block;
         max-width: 250px;
         padding-top: 0;
         padding-left: 30%;
